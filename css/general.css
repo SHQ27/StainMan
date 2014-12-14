@@ -1,0 +1,27 @@
+footer {	
+	padding-top: 15px;
+}
+
+#sponsors {
+	text-align: center;
+}
+
+#site-info {
+	background-color: rgb(252, 192, 6);
+	padding: 15px;
+	font-family: Oswald, sans-serif;
+	color: #A41F24;
+}
+
+.footer-logo {
+	width: 250;
+	height:	123;
+}
+
+.about-text {
+	margin: auto;
+}
+
+#rights-reserved {
+
+}
