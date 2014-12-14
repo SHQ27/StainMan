@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: auto;
+	background: url('../img/background.png') no-repeat fixed center;
+}
+
+.enter {
+	padding-top: 15%;
+}
+
+.enter-in {
+	min-width: 500px;
+	text-align: center;
+}
+
+.enter-in img {
+	display: block;
+	margin: 0 auto;
+	width: 80%;
+}
+
+.enter-in a {
+	position: relative;
+	color: white;
+	font-family: Raleway, Helvetica, sans-serif;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	top: 30px;
+	background: black;
+	border-radius: 5px;
+	border: 1px solid #fcc006;
+	padding: 8px 13px;
+}
+
+.enter-in a:hover {
+	text-decoration: none;
+	background: -webkit-linear-gradient(#a62126, #6f0d11);
+}
+
+.enter-in a:link {
+	text-decoration: none;
+}
