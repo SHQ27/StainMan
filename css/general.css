@@ -10,11 +10,12 @@ body {
 	background-color: black;
 }
 
-#global-container {
-
-} 
 
 a:hover {
+	text-decoration: none;
+}
+
+a:link {
 	text-decoration: none;
 }
 
@@ -29,6 +30,7 @@ ul {
 
 .top-banner {
 	text-align: center;
+	min-width: 800px;
 }
 
 .header-logo {
@@ -39,6 +41,7 @@ ul {
 .nav-bar-menu {
 	text-align: center;
 	margin-top: 20px;
+	min-width: 800px;
 }
 
 .nav-bar-menu li {
@@ -48,12 +51,21 @@ ul {
 	line-height: 10px;
 }
 
+@media screen and (max-width: 1093px) {
+    .nav-bar-menu li {
+	display: inline-block;
+	padding: 0px 25px;
+	border-right: solid 1px rgb(252,192,6);
+	line-height: 10px;
+    }
+}
+
 .nav-bar-menu li a {
 	color: rgb(252,192,6);
 }
 
 .nav-bar-menu li a:hover {
-	color: white;
+	color: rgb(252,140,6);
 }
 
 .buy-border {
@@ -61,10 +73,23 @@ ul {
 }
 
 .nav-bar-buy {
-	background: rgb(166,38,33);
+	background: -webkit-linear-gradient(#a62126,#7e050a);
+	background: -ms-linear-gradient(#a62126,#7e050a);
+	background: -moz-linear-gradient(#a62126,#7e050a);
+	background: -o-linear-gradient(#a62126,#7e050a);
 	color: white!important;
 	padding: 8px 20px;
 	border-radius: 3px; 
+}
+
+.nav-bar-buy:hover {
+	cursor: pointer;
+	background: -webkit-linear-gradient(#d7020a,#4e0204);
+	background: -ms-linear-gradient(#d7020a,#4e0204);
+	background: -moz-linear-gradient(#d7020a,#4e0204);
+	background: -o-linear-gradient(#d7020a,#4e0204);
+	text-shadow: 1px 1px 0px black;
+	border: 1px solid white;
 }
 
 													/* FOOTER */
