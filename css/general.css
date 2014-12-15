@@ -1,3 +1,4 @@
+
 *, body {
 	margin:0;
 	padding: 0;
@@ -100,10 +101,11 @@ ul {
 
 footer {	
 	padding-top: 15px;
+	margin-top: 30px;
 }
 
 #sponsors {
-	text-align: center;
+	margin-bottom: 30px;
 }
 
 #site-info {
