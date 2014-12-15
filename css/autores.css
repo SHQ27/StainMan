@@ -44,7 +44,21 @@ body {
 }
 
 .wasser-text h2 {
-	color: rgb(252,192,6);
+	background: -webkit-linear-gradient(#FDD202,#F18321);
+	background: -moz-linear-gradient(#FDD202,#F18321);
+	background: -ms-linear-gradient(#FDD202,#F18321);
+	background: -o-linear-gradient(#FDD202,#F18321);
+	background: linear-gradient(#FDD202,#F18321);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	-ms-background-clip: text;
+  	-ms-text-fill-color: transparent;
+  	-moz-background-clip: text;
+  	-moz-text-fill-color: transparent;
+  	-o-background-clip: text;
+  	-o-text-fill-color: transparent;
+  	background-clip: text;
+  	text-fill-color: transparent;
 	margin: 0;
 	margin-bottom: 20px;
 }
@@ -59,7 +73,7 @@ body {
 
 								/* MITCH LEIGH */
 
-.mitch-container{
+.author-container{
 	width: 80%;
 	margin: 0 auto;
 	padding: 0;
@@ -68,117 +82,45 @@ body {
 	border-bottom: 1px solid rgb(252,192,6);
 }
 
-.mitch-title {
+.author-title {
 	float: left;
 	margin-right: 25px;
 }
 
-.mitch-title h2 {
-	margin: 0;
-	margin-top: 3px;
-	color: rgb(252,192,6);
-}
-
-.mitch-title p {
-	margin-top: 20px;
-	color: white;
-	text-align: center;
-	font-weight: lighter;
-}
-
-.mitch-text p{
-	line-height: 2;
-	font-size: 13px;
-	color: white;
-	font-family: Raleway, sans-serif;
-}
-
-
-								/* JOE DARION */
-
-.darion-container{
-	width: 80%;
-	margin: 0 auto;
-	padding: 0;
-	padding-bottom: 50px;
-	padding-top: 50px;
-	border-bottom: 1px solid rgb(252,192,6);
-}
-
-.darion-title {
-	float: left;
-	margin-right: 25px;
-}
-
-.darion-title h2 {
-	margin: 0;
-	margin-top: 3px;
-	color: rgb(252,192,6);
-}
-
-.darion-title p {
-	margin-top: 20px;
-	color: white;
-	text-align: center;
-	font-weight: lighter;
-}
-
-.darion-text p{
-	line-height: 2;
-	font-size: 13px;
-	color: white;
-	font-family: Raleway, sans-serif;
-}
-
-
-								/* MASLLORENS */
-
-.masllorens-container{
-	width: 80%;
-	margin: 0 auto;
-	padding: 0;
-	padding-bottom: 50px;
-	padding-top: 50px;
-	border-bottom: 1px solid rgb(252,192,6);
-}
-
-.masllorens-title {
-	float: left;
-	margin-right: 25px;
-}
-
-.masllorens-title h2 {
+.author-title h2 {
 	text-align: center;
 	line-height: 1.6;
 	margin: 0;
-	margin-top: 3px;
-	color: rgb(252,192,6);
+	margin-top: -3px;
+	background: -webkit-linear-gradient(#FDD202,#F18321);
+	background: -moz-linear-gradient(#FDD202,#F18321);
+	background: -ms-linear-gradient(#FDD202,#F18321);
+	background: -o-linear-gradient(#FDD202,#F18321);
+	background: linear-gradient(#FDD202,#F18321);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	-ms-background-clip: text;
+  	-ms-text-fill-color: transparent;
+  	-moz-background-clip: text;
+  	-moz-text-fill-color: transparent;
+  	-o-background-clip: text;
+  	-o-text-fill-color: transparent;
+  	background-clip: text;
+  	text-fill-color: transparent;
 }
 
-.masllorens-title p {
+.author-title p {
 	margin-top: 20px;
 	color: white;
 	text-align: center;
 	font-weight: lighter;
 }
 
-.masllorens-text p{
+.author-text p{
 	line-height: 2;
 	font-size: 13px;
 	color: white;
 	font-family: Raleway, sans-serif;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
