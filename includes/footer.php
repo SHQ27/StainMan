@@ -12,7 +12,7 @@
 					<img src="img/mainlogo.png" class='footer-logo'>
 				</div>
 				<div class='col-md-4'>
-					<span class='about-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span>
+					<span class='about-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada nec nisl ut commodo. Maecenas tincidunt ultrices elit faucibus faucibus. Donec sit amet massa sapien. Morbi scelerisque ligula non nisl vulputate tincidunt. </span>
 				</div>
 			</div>
 		</div>

@@ -21,18 +21,18 @@
 		</div>	
 		<div class="nav-bar">
 			<ul class="nav-bar-menu">
-				<li><a class="nav-bar-items activeLink" href="#!">EL MUSICAL</a></li>
+				<li><a class="nav-bar-items" href="index.php">EL MUSICAL</a></li>
 				<li><a class="nav-bar-items" href="autores.php">AUTORES</a></li>
 				<li><a class="nav-bar-items" href="elenco.php">ELENCO</a></li>
 				<li><a class="nav-bar-items" href="ficha.php">FICHA TÉCNICA</a></li>
-				<li><a class="nav-bar-items" href="protagonistas.php">PROTAGONISTAS</a></li>
+				<li><a class="nav-bar-items activeLink" href="#!">PROTAGONISTAS</a></li>
 				<li class="buy-border"><a class="nav-bar-items nav-bar-buy" href="#!">COMPRAR TICKETS</a></li>
 			</ul>
 		</div>
 
 		<!-- CONTENT -->
 
-		<?php include('includes/inicio.php') ?>
+		<?php include('includes/protagonistas.php') ?>
 
 		<!-- FOOTER -->
 

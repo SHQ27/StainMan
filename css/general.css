@@ -65,8 +65,9 @@ ul {
 }
 
 .nav-bar-menu li a:hover {
-	color: rgb(252,140,6);
+	color: rgb(252,120,6);
 }
+
 
 .buy-border {
 	border-right: solid 0px black!important;
@@ -92,6 +93,9 @@ ul {
 	border: 1px solid white;
 }
 
+.activeLink {
+	color: rgb(252,120,6) !important;
+}
 													/* FOOTER */
 
 footer {	
