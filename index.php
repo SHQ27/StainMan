@@ -1,36 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-	<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css">
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<title>EL HOMBRE DE LA MANCHA</title>
 </head>
 <body>
-	
-	<!-- HEADER -->
+	<div id='global-container'>
 
-	<div id="header">
-		<div class="top-banner">
-			<img class="header-logo" src="img/mainLogo.png">
-			<img class="img-cut img-responsive" src="img/cut.png">
+		<!-- HEADER -->
+
+		<div id="header">
+			<div class="top-banner">
+				<img class="header-logo" src="img/mainLogo.png">
+				<img class="img-cut img-responsive" src="img/cut.png">
+			</div>
+		</div>	
+		<div class="nav-bar">
+			<ul class="nav-bar-menu">
+				<li><a class="nav-bar-items" href="#!">EL MUSICAL</a></li>
+				<li><a class="nav-bar-items" href="#!">AUTORES</a></li>
+				<li><a class="nav-bar-items" href="#!">ELENCO</a></li>
+				<li><a class="nav-bar-items" href="#!">FICHA TÉCNICA</a></li>
+				<li><a class="nav-bar-items" href="#!">PROTAGONISTAS</a></li>
+				<li class="buy-border"><a class="nav-bar-items nav-bar-buy" href="#!">COMPRAR TICKETS</a></li>
+			</ul>
 		</div>
-	</div>	
-	<div class="nav-bar">
-		<ul class="nav-bar-menu">
-			<li><a class="nav-bar-items" href="#!">EL MUSICAL</a></li>
-			<li><a class="nav-bar-items" href="#!">AUTORES</a></li>
-			<li><a class="nav-bar-items" href="#!">ELENCO</a></li>
-			<li><a class="nav-bar-items" href="#!">FICHA TÉCNICA</a></li>
-			<li><a class="nav-bar-items" href="#!">PROTAGONISTAS</a></li>
-			<li class="buy-border"><a class="nav-bar-items nav-bar-buy" href="#!">COMPRAR TICKETS</a></li>
-		</ul>
+
+		<!-- FOOTER -->
+		<?php include('includes/footer.php') ?>
 	</div>
-							<!-- FOOTER -->
-	<?php include('includes/footer.php') ?>
 </body>
 </html>
