@@ -1,0 +1,121 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+}
+
+.autores-title {
+	text-align: center;
+	color: rgb(252,192,6);
+	margin-top: 50px;
+	letter-spacing: 2px;
+}
+
+.autores-inner-container {
+	overflow: hidden;
+	margin-top: 80px;
+	min-width: 800px;
+}
+
+.autor-top {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.wasser-container {
+	width: 80%;
+	margin: 0 auto;
+	padding: 0;
+	padding-bottom: 50px;
+	border-bottom: 1px solid rgb(252,192,6);
+}
+
+.wasser-img {
+	padding: 0;
+	margin-right: 25px;
+}
+
+.wasser-img img{
+	width: 235px;
+	margin-bottom: 50px;
+	border: 4px solid rgb(252,192,6);
+}
+
+.wasser-p h2 {
+	color: rgb(252,192,6);
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+.three-author-container {
+	height: 330px;
+	border-bottom: 1px solid rgb(252,192,6);
+	width: 80%;
+	margin: 0 auto;
+}
+
+.wasser-p p{
+	color: white;
+	font-weight: lighter;
+	line-height: 2;
+	font-size: 13px;
+}
+
+.three-authors h2{
+	margin-top: 25px;
+	text-align: center;
+	font-size: 22px;
+	line-height: 1.6;
+	color: rgb(252,192,6);
+}
+
+.three-authors p {
+	font-size: 12px;
+	text-align: center;
+	font-family: Oswald, sans-serif;
+	line-height: 1.7;
+	width: 80%;
+	margin: 0 auto;
+	color: white;
+	font-weight: lighter;
+	margin-bottom: 30px;
+}
+
+.masllorens p {
+	font-size: 12px;
+	text-align: center;
+	font-family: Oswald, sans-serif;
+	line-height: 1.7;
+	width: 80%;
+	margin: 0 auto;
+	color: white;
+	font-weight: lighter;
+	font-size: 12px;
+}
+
+.masllorens {
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid rgb(252,192,6);
+}
+
+.masllorens h2 {
+	margin-top: 35px;
+	padding-bottom: 25px;
+	text-align: center;
+	color: rgb(252,192,6);
+}
+
+
+
+
+
+
+
+
+
