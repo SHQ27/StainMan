@@ -68,10 +68,9 @@ ul {
 }
 
 													/* FOOTER */
+
 footer {	
 	padding-top: 15px;
-	position: absolute;
-	bottom: 0;
 }
 
 #sponsors {
@@ -79,15 +78,13 @@ footer {
 }
 
 #site-info {
+	margin-top: 15px;
 	background-color: rgb(252, 192, 6);
-	padding: 15px;
-	font-family: Oswald, sans-serif;
 	color: #A41F24;
 }
 
 .footer-logo {
-	width: 250px;
-	height:	123px;
+	width: 180px;
 }
 
 .about-text {
@@ -95,5 +92,10 @@ footer {
 }
 
 #rights-reserved {
-
+	text-align: center;
+	margin-top: 30px;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	color: white;
+	font-size: 12px;
 }

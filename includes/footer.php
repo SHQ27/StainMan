@@ -1,9 +1,9 @@
 <footer>
 	<div id='sponsors' class='row'>
 		<img src="img/sponsors.png">
-		<img src="img/cut.png" class='img-responsive'>
 	</div>
 	<div id='site-info' class='row'>
+		<img src="img/cut-flip.png" class='img-responsive footer-flip'>
 		<div class='col-md-2'>
 		</div>
 		<div class'col-md-8'>
@@ -18,7 +18,10 @@
 		</div>
 		<div class'col-md-2'>
 		</div>
+			<img src="img/cut.png" class='img-responsive footer-cut'>
 	</div>
+
 	<div id='rights-reserved' class='row'>
+		<p class=''> © 2014 | Todos los derechos reservados. </p>
 	</div>
 </footer>
