@@ -12,7 +12,7 @@
 	<div class="col-lg-2 col-md-2 col-sm-2"></div>
 	<div class="enter col-lg-8 col-md-8 col-sm-8 col-xs-12">
 		<div class="enter-in">
-			<img src="./img/logoEnter.png">
+			<img class="img-responsive" src="./img/logoEnter.png">
 			<div id='premier' class='row text-center'>
 				<h1 class='premier-title'>- PROXIMAMENTE -</h1>
 				<a class="nav-bar-buy-big" target="_blank" href="https://www.plateanet.com/Comprar/el-hombre-de-la-mancha---un-musical">COMPRAR TICKETS</a>

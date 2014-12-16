@@ -11,19 +11,13 @@ body {
 	background-color: black;
 }
 
-
-a:hover {
-	text-decoration: none;
-}
-
-a:link {
+a:hover, a:link {
 	text-decoration: none;
 }
 
 ul {
 	list-style: none;
 }
-
 
 #header {
 	background: rgb(252,192,6);
