@@ -1,5 +1,9 @@
 <footer>
 	<div id='sponsors' class='row'>
+			<div id='premier' class='row text-center'>
+				<h1 class='premier-title'>- ESTRENO 7 DE ENERO -</h1>
+				<a class="nav-bar-buy-big" href="#!">COMPRAR TICKETS</a>
+			</div>
 		<div class='col-lg-2 col-md-2 col-sm-2 col-xs-2'></div>
 		<div class='col-lg-8 col-md-8 col-sm-8 col-xs-8'>
 			<img src="img/sponsors.png" class='img-responsive'>
@@ -25,7 +29,6 @@
 		</div>
 			<img src="img/cut.png" class='img-responsive footer-cut'>
 	</div>
-
 	<div id='rights-reserved' class='row'>
 		<p> © 2014 | Todos los derechos reservados. </p>
 	</div>

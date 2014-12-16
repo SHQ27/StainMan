@@ -14,8 +14,4 @@
 			<p>El musical, como suele ocurrir, tiene importantes diferencias con la obra original de Cervantes. Posiblemente la principal es que Aldonza Lorenzo, Dulcinea del Toboso para don Quijote, de ser un personaje que sólo es mencionado en el libro, se convierte en una de las protagonistas del musical.</p>
 		</div>
 	</div>
-	<div id='premier' class='row text-center'>
-		<h1 class='premier-title'>- ESTRENO 7 DE ENERO -</h1>
-		<a class="nav-bar-buy-big" href="#!">COMPRAR TICKETS</a>
-	</div>
 </div>
