@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<link rel="stylesheet" type="text/css" href="css/autores.css">
+	<link rel="stylesheet" type="text/css" href="css/inicio.css">
 	<title>EL HOMBRE DE LA MANCHA</title>
 </head>
 <body>

@@ -83,7 +83,7 @@ ul {
 	background: -ms-linear-gradient(#d7020a,#4e0204);
 	background: -moz-linear-gradient(#d7020a,#4e0204);
 	background: -o-linear-gradient(#d7020a,#4e0204);
-	text-shadow: 1px 1px 0px black;
+	text-shadow: 2px 2px 0px black;
 	border: 1px solid white;
 }
 
@@ -95,6 +95,31 @@ ul {
 footer {	
 	padding-top: 15px;
 	margin-top: 30px;
+}
+
+.logo-maipo {
+	width: 160px;
+	margin-bottom: 15px;
+}
+
+.direccion-maipo {
+	color: white;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	margin-bottom: 50px;
+}
+
+.direccion-maipo span {
+	letter-spacing: 0px;
+}
+
+.web-maipo {
+	color: rgb(252,192,6);
+	font-weight: lighter;
+}
+
+.web-maipo:hover {
+	color: white;
 }
 
 #sponsors {
@@ -117,7 +142,7 @@ footer {
 
 #rights-reserved {
 	text-align: center;
-	margin-top: 30px;
+	padding: 15px 0px;
 	font-weight: lighter;
 	letter-spacing: 1px;
 	color: white;
