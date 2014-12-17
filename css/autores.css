@@ -134,7 +134,11 @@ body {
 	width: 80%;
 	margin: 0 auto;
 	text-align: center;
-	margin-top: 25px;
+	margin-top: 55px;
+}
+
+.elenco-titles {
+	font-size: 35px;
 }
 
 .elenco-subtitles {
