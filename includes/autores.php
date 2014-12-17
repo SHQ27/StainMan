@@ -1,5 +1,6 @@
 <div class="autores-container">
 	<div class="autores-inner-container">
+		<h1 class="autores-title">AUTORES</h1>
 		<div class="wasser-container">
 			<div class="wasser-img">
 				<img class="img-responsive" src="../img/DaleWasserman.jpg">

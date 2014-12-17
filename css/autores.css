@@ -22,6 +22,11 @@ body {
 	width: 80%;
 }
 
+.autores-title {
+	font-size: 60px;
+	text-align: center;
+}
+
 								/* WASSERMAN */
 
 .wasser-container {
@@ -30,6 +35,7 @@ body {
 	padding: 0;
 	padding-bottom: 50px;
 	border-bottom: 1px solid rgb(252,192,6);
+	margin-top: 70px;
 }
 
 .wasser-img {
@@ -43,7 +49,7 @@ body {
 	border: 4px solid rgb(252,192,6);
 }
 
-.wasser-text h2 {
+.wasser-text h2, .autores-title {
 	background: -webkit-linear-gradient(#FDD202,#F18321);
 	background: -moz-linear-gradient(#FDD202,#F18321);
 	background: -ms-linear-gradient(#FDD202,#F18321);
@@ -87,7 +93,7 @@ body {
 	margin-right: 25px;
 }
 
-.author-title h2, .elenco-titles, .elenco-inner-container h1, .elenco-acompanados h4 {
+.author-title h2, .ficha-masllorens span, .elenco-titles, .elenco-inner-container h1, .elenco-acompanados h4, .ficha-title h1 {
 	text-align: center;
 	line-height: 1.6;
 	margin: 0;
@@ -125,6 +131,8 @@ body {
 
 
 									/* ELENCO */
+
+
 .elenco-inner-container h1 {
 	margin-bottom: 30px;
 	font-size: 60px;
@@ -135,6 +143,7 @@ body {
 	margin: 0 auto;
 	text-align: center;
 	margin-top: 55px;
+	min-width: 850px;
 }
 
 .elenco-titles {
@@ -179,20 +188,72 @@ body {
 	color: white;
 	font-weight: lighter;
 	font-size: 20px;
-
+	line-height: 1.5;
 }
 
 
 
 
+									/* FICHA TÉCNICA */
+.ficha-container {
+	margin-top: 50px;
+}
 
+.ficha-inner-container{
+	margin: 0 auto;
+	width: 80%;
+	min-width: 800px;
+	text-align: center;
+}
 
+.ficha-title h1{
+	font-size: 60px;
+}
 
+.ficha-data {
+	width: 80%;
+	margin: 0 auto;
+	border-bottom: 1px solid rgb(252,192,6);
+	padding: 30px 0px;
+}
 
+.ficha-data ul li {
+	font-weight: 300;
+	color: white!important;
+	background: none;
+	background-clip: none;
+	font-size: 17px;
+	line-height: 2;
+}
 
+.ficha-data ul li span {
+	background: -webkit-linear-gradient(#FDD202,#F18321);
+	background: -moz-linear-gradient(#FDD202,#F18321);
+	background: -ms-linear-gradient(#FDD202,#F18321);
+	background: -o-linear-gradient(#FDD202,#F18321);
+	background: linear-gradient(#FDD202,#F18321);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	-ms-background-clip: text;
+  	-ms-text-fill-color: transparent;
+  	-moz-background-clip: text;
+  	-moz-text-fill-color: transparent;
+  	-o-background-clip: text;
+  	-o-text-fill-color: transparent;
+  	background-clip: text;
+  	text-fill-color: transparent;
+	font-size: 16px;
+	font-weight: 300;
+}
 
-
-
+.ficha-masllorens {
+	color: white;
+	font-weight: 300;
+	margin-top: 30px;
+	font-size: 15px;
+	line-height: 2;
+	font-size: 17px;
+}
 
 
 
