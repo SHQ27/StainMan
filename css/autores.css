@@ -87,7 +87,7 @@ body {
 	margin-right: 25px;
 }
 
-.author-title h2 {
+.author-title h2, .elenco-titles, .elenco-inner-container h1, .elenco-acompanados h4 {
 	text-align: center;
 	line-height: 1.6;
 	margin: 0;
@@ -122,5 +122,91 @@ body {
 	color: white;
 	font-family: Raleway, sans-serif;
 }
+
+
+									/* ELENCO */
+.elenco-inner-container h1 {
+	margin-bottom: 30px;
+	font-size: 60px;
+}
+
+.elenco-inner-container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 25px;
+}
+
+.elenco-subtitles {
+	color: white;
+	font-weight: lighter;
+	margin:15px 0px 30px;
+}
+
+.elenco-raul-cecilia {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.raul {
+	float: left;
+	margin-left: 50px;
+}
+
+.cecilia {
+	float: right;
+	margin-right: 30px;
+}
+
+.elenco-acompanados {
+	border-top: 1px solid rgb(252,192,6);
+	border-bottom: 1px solid rgb(252,192,6);
+	width: 80%;
+	margin: 0 auto;
+	padding: 30px;
+	margin-top: 30px;
+}
+
+.elenco-acompanados ul {
+	margin-top: 20px;
+}
+
+.elenco-acompanados ul li {
+	color: white;
+	font-weight: lighter;
+	font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
