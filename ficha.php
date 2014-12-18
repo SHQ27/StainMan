@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script type="text/javascript" src="js/headerLogo.js"></script>
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/general.css">
@@ -12,6 +13,8 @@
 	<title>EL HOMBRE DE LA MANCHA</title>
 </head>
 <body>
+	<div class="top-black"></div>
+	<img src="img/cut-flip.png" class='img-responsive footer-flip footer-flip-top'>
 	<div id='global-container'>
 
 		<!-- HEADER -->
