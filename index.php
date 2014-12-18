@@ -13,10 +13,11 @@
 	<title>EL HOMBRE DE LA MANCHA</title>
 </head>
 <body>
+	<div class="top-black"></div>
+			<img src="img/cut-flip.png" class='img-responsive footer-flip footer-flip-top'>
 	<div id='global-container'>
 
 		<!-- HEADER -->
-
 		<div id="header">
 			<div class="top-banner">
 				<img class="header-logo" src="img/mainLogo.png">

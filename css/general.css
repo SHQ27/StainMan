@@ -151,3 +151,13 @@ footer {
 	font-size: 12px;
 }
 
+.top-black {
+	height: 20px;
+	background: black;
+}
+
+.footer-flip-top {
+	position: absolute;
+}
+
+
