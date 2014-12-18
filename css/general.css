@@ -11,6 +11,10 @@ body {
 	background-color: black;
 }
 
+#global-container {
+	min-width: 800px;
+}
+
 a:hover, a:link {
 	text-decoration: none;
 }
@@ -41,6 +45,10 @@ ul {
 	text-align: center;
 	margin-top: 20px;
 	min-width: 800px;
+}
+
+.nav-bar {
+	min-width: 805px;
 }
 
 .nav-bar-menu li {
@@ -96,9 +104,9 @@ ul {
 }
 													/* FOOTER */
 
-footer {	
+footer {
+	margin-top: 20px;
 	padding-top: 15px;
-	margin-top: 30px;
 	min-width: 800px;
 }
 
@@ -164,4 +172,35 @@ footer {
 	position: absolute;
 }
 
+@media (max-width: 900px) {
+    footer {
+        margin-top: 140px !important;
+    }
+}
 
+.premier-title {
+	color: white;
+	letter-spacing: 8px;
+	margin: 70px 0px 50px 0px;
+}
+
+.nav-bar-buy-big {
+	background: -webkit-linear-gradient(#a62126,#7e050a);
+	background: -ms-linear-gradient(#a62126,#7e050a);
+	background: -moz-linear-gradient(#a62126,#7e050a);
+	background: -o-linear-gradient(#a62126,#7e050a);
+	color: white!important;
+	padding: 16px 40px;
+	border-radius: 3px; 
+	font-size: 20px;
+}
+
+.nav-bar-buy-big:hover {
+	cursor: pointer;
+	background: -webkit-linear-gradient(#d7020a,#4e0204);
+	background: -ms-linear-gradient(#d7020a,#4e0204);
+	background: -moz-linear-gradient(#d7020a,#4e0204);
+	background: -o-linear-gradient(#d7020a,#4e0204);
+	text-shadow: 2px 2px 0px black;
+	border: 2px solid white;
+}

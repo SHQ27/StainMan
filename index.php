@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<meta charset="UTF-8">
 	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	<script type="text/javascript" src="js/headerLogo.js"></script>
@@ -31,7 +32,7 @@
 				<li><a class="nav-bar-items" href="elenco.php">ELENCO</a></li>
 				<li><a class="nav-bar-items" href="ficha.php">FICHA TÉCNICA</a></li>
 				<li><a class="nav-bar-items" href="protagonistas.php">PROTAGONISTAS</a></li>
-				<li class="buy-border"><a class="nav-bar-items nav-bar-buy" href="https://www.plateanet.com/Obras/el-hombre-de-la-mancha---un-musical">COMPRAR TICKETS</a></li>
+				<li class="buy-border"><a class="nav-bar-items nav-bar-buy" target='_blank' href="https://www.plateanet.com/Obras/el-hombre-de-la-mancha---un-musical">COMPRAR TICKETS</a></li>
 			</ul>
 		</div>
 

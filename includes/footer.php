@@ -3,7 +3,7 @@
 			<div id='premier' class='row text-center'>
 				<img class="logo-maipo" src="img/logoMaipo.png">
 				<p class="direccion-maipo">Esmeralda 443 - Tel. 5352-8384 - <span><a class="web-maipo" href="http://www.maipo.com.ar">www.maipo.com.ar</a></span></p>
-				<a class="nav-bar-buy-big" href="http://www.plateanet.com">COMPRAR TICKETS</a>
+				<a class="nav-bar-buy-big" target="_blank" href="https://www.plateanet.com/Comprar/el-hombre-de-la-mancha---un-musical">COMPRAR TICKETS</a>
 				<h1 class='premier-title'>- ESTRENO 7 DE ENERO -</h1>
 			</div>
 		<div class='col-lg-2 col-md-2 col-sm-2 col-xs-2'></div>
@@ -21,7 +21,8 @@
 				<div class='col-lg-2 col-md-2 col-sm-2 col-xs-2'>
 					<img src="img/mainlogo.png" class='footer-logo'>
 				</div>
-				<div class='col-lg-5 col-md-5 col-sm-5 col-xs-5'>
+				<div class='col-lg-1 col-md-1 col-sm-1 col-xs-1'> </div>
+				<div class='col-lg-4 col-md-4 col-sm-4 col-xs-4'>
 					<span class='about-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada nec nisl ut commodo. Maecenas tincidunt ultrices elit faucibus faucibus. Donec sit amet massa sapien. Morbi scelerisque ligula non nisl vulputate tincidunt. </span>
 				</div>
 				<div class='col-lg-1 col-md-1 col-sm-1 col-xs-1'></div>

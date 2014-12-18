@@ -1,0 +1,73 @@
+.pictures {
+	margin-top: 40px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.cast-img-container {
+	text-align: center;
+}
+
+.cast-img-container p {
+	background: -webkit-linear-gradient(#FDD202,#F18321);
+	background: -moz-linear-gradient(#FDD202,#F18321);
+	background: -ms-linear-gradient(#FDD202,#F18321);
+	background: -o-linear-gradient(#FDD202,#F18321);
+	background: linear-gradient(#FDD202,#F18321);
+	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	-ms-background-clip: text;
+  	-ms-text-fill-color: transparent;
+  	-moz-background-clip: text;
+  	-moz-text-fill-color: transparent;
+  	-o-background-clip: text;
+  	-o-text-fill-color: transparent;
+  	background-clip: text;
+  	text-fill-color: transparent;
+  	font-size: 25px;
+  	z-index: 10;
+}
+
+.cast-img {
+	filter: greyscale(100%);
+	-webkit-filter: grayscale(100%);
+	border-radius: 10px;
+	z-index: 0;
+}
+
+.cast-img:hover {
+	filter: greyscale(0%);
+	-webkit-filter: grayscale(0%);
+	cursor: pointer;
+}
+
+.no-greyscale {
+	filter: greyscale(0%);
+	-webkit-filter: grayscale(0%);
+}
+
+.title {
+	margin-top: 45px;
+}
+
+.title h1{
+	font-size: 60px;
+	text-align: center;
+	line-height: 1.6;
+	margin: 0;
+	background: -webkit-linear-gradient(#FDD202,#F18321);
+	background: -moz-linear-gradient(#FDD202,#F18321);
+	background: -ms-linear-gradient(#FDD202,#F18321);
+	background: -o-linear-gradient(#FDD202,#F18321);
+	background: linear-gradient(#FDD202,#F18321);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	-ms-background-clip: text;
+  	-ms-text-fill-color: transparent;
+  	-moz-background-clip: text;
+  	-moz-text-fill-color: transparent;
+  	-o-background-clip: text;
+  	-o-text-fill-color: transparent;
+  	background-clip: text;
+  	text-fill-color: transparent;
+}

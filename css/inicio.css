@@ -12,6 +12,14 @@
 	-o-transform: translate(-50%, -50%); 
 	-ms-transform: translate(-50%, -50%); 
 	transform: translate(-50%, -50%);
+	min-width: 700px;
+	border-bottom: 1px solid rgb(252, 192, 6);
+}
+
+@media (max-width: 900px) {
+    #musical-box {
+        top: 80% !important;
+    }
 }
 
 .musical-box-title-wrapper {
@@ -50,34 +58,7 @@
 	padding-right: 30px;
 	margin-top: -100px;
 	padding-bottom: 40px;
-	border-bottom: 1px solid rgb(252, 192, 6);
 	z-index: 1;
 
-}
 
-.premier-title {
-	color: white;
-	letter-spacing: 8px;
-	margin: 70px 0px 50px 0px;
-}
-
-.nav-bar-buy-big {
-	background: -webkit-linear-gradient(#a62126,#7e050a);
-	background: -ms-linear-gradient(#a62126,#7e050a);
-	background: -moz-linear-gradient(#a62126,#7e050a);
-	background: -o-linear-gradient(#a62126,#7e050a);
-	color: white!important;
-	padding: 16px 40px;
-	border-radius: 3px; 
-	font-size: 20px;
-}
-
-.nav-bar-buy-big:hover {
-	cursor: pointer;
-	background: -webkit-linear-gradient(#d7020a,#4e0204);
-	background: -ms-linear-gradient(#d7020a,#4e0204);
-	background: -moz-linear-gradient(#d7020a,#4e0204);
-	background: -o-linear-gradient(#d7020a,#4e0204);
-	text-shadow: 2px 2px 0px black;
-	border: 2px solid white;
 }
