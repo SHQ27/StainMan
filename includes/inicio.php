@@ -1,3 +1,4 @@
+<img src="img/cut-flip.png" class='img-responsive footer-flip index-cut-top'>
 <div id='index-container'>
 	<div class='text-center'>
 		<img src="img/main-photo.jpg" class='img-responsive'>

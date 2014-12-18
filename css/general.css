@@ -13,6 +13,7 @@ body {
 
 #global-container {
 	min-width: 800px;
+	overflow-x: hidden;
 }
 
 a:hover, a:link {
@@ -172,9 +173,9 @@ footer {
 	position: absolute;
 }
 
-@media (max-width: 900px) {
-    footer {
-        margin-top: 140px !important;
+@media (min-width: 1050px) {
+    #musical-box  {
+        width: 70%;
     }
 }
 

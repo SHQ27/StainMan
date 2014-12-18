@@ -1,17 +1,18 @@
+.index-cut-top {
+	position: absolute;
+	margin-top: 16px;
+	z-index: 99999;
+}
+
 #index-container {
 	margin-top: 30px;
 	position: relative;
 }
 
 #musical-box {
-	position: absolute;
-	top: 67%;
-	left: 50%;
-	-webkit-transform: translate(-50%, -50%); 
-	-moz-transform: translate(-50%, -50%); 
-	-o-transform: translate(-50%, -50%); 
-	-ms-transform: translate(-50%, -50%); 
-	transform: translate(-50%, -50%);
+	width: 80%;
+	margin: 0 auto;
+	margin-top: -23%;
 	min-width: 700px;
 	border-bottom: 1px solid rgb(252, 192, 6);
 }
