@@ -95,6 +95,7 @@ ul {
 footer {	
 	padding-top: 15px;
 	margin-top: 30px;
+	min-width: 800px;
 }
 
 .logo-maipo {
@@ -138,6 +139,7 @@ footer {
 
 .about-text {
 	margin: auto;
+	font-weight: 300;
 }
 
 #rights-reserved {
@@ -148,3 +150,4 @@ footer {
 	color: white;
 	font-size: 12px;
 }
+

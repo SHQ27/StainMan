@@ -3,7 +3,7 @@
 			<div id='premier' class='row text-center'>
 				<img class="logo-maipo" src="img/logoMaipo.png">
 				<p class="direccion-maipo">Esmeralda 443 - Tel. 5352-8384 - <span><a class="web-maipo" href="http://www.maipo.com.ar">www.maipo.com.ar</a></span></p>
-				<a class="nav-bar-buy-big" href="#!">COMPRAR ENTRADAS</a>
+				<a class="nav-bar-buy-big" href="http://www.plateanet.com">COMPRAR TICKETS</a>
 				<h1 class='premier-title'>- ESTRENO 7 DE ENERO -</h1>
 			</div>
 		<div class='col-lg-2 col-md-2 col-sm-2 col-xs-2'></div>
