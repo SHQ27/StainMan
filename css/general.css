@@ -20,7 +20,11 @@ ul {
 }
 
 #header {
-	background: rgb(252,192,6);
+	background: -webkit-linear-gradient(#FDD202,#F8AE1A);
+	background: -moz-linear-gradient(#FDD202,#F8AE1A);
+	background: -ms-linear-gradient(#FDD202,#F8AE1A);
+	background: -o-linear-gradient(#FDD202,#F8AE1A);
+	background: linear-gradient(#FDD202,#F8AE1A);
 }
 
 .top-banner {

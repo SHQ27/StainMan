@@ -131,6 +131,9 @@ body {
 
 
 									/* ELENCO */
+.elenco-container {
+	background: url('../img/background.jpg') no-repeat fixed center;
+}
 
 
 .elenco-inner-container h1 {
