@@ -131,6 +131,13 @@ body {
 
 
 									/* ELENCO */
+
+.elenco-cut-top {
+	position: absolute;
+	margin-top: 41px;
+	z-index: 9999;
+}
+
 .elenco-container {
 	background: url('../img/background.jpg') no-repeat fixed center;
 }
@@ -142,6 +149,7 @@ body {
 }
 
 .elenco-inner-container {
+	padding-top: 50px;
 	width: 80%;
 	margin: 0 auto;
 	text-align: center;
@@ -176,7 +184,6 @@ body {
 
 .elenco-acompanados {
 	border-top: 1px solid rgb(252,192,6);
-	border-bottom: 1px solid rgb(252,192,6);
 	width: 80%;
 	margin: 0 auto;
 	padding: 30px;

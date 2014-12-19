@@ -116,6 +116,11 @@ footer {
 	margin-bottom: 15px;
 }
 
+.logo-macro {
+	width: 200px;
+	margin-bottom: 50px;
+}
+
 .direccion-maipo {
 	color: white;
 	font-weight: lighter;

@@ -5,6 +5,7 @@
 				<p class="direccion-maipo">Esmeralda 443 - Tel. 5352-8384 - <span><a class="web-maipo" href="http://www.maipo.com.ar">www.maipo.com.ar</a></span></p>
 				<a class="nav-bar-buy-big" target="_blank" href="https://www.plateanet.com/Comprar/el-hombre-de-la-mancha---un-musical">COMPRAR ENTRADAS</a>
 				<h1 class='premier-title'>- ESTRENO 7 DE ENERO -</h1>
+				<img class="logo-macro" src="img/logoMacro.png">
 			</div>
 		<div class='col-lg-2 col-md-2 col-sm-2 col-xs-2'></div>
 		<div class='col-lg-8 col-md-8 col-sm-8 col-xs-8'>
