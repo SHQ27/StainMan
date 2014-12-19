@@ -42,6 +42,27 @@ ul {
 	width: 300px;
 }
 
+.header-facebook {
+	margin-right: 30px;
+	float: right;
+	position: absolute;
+	right: 0;
+	top: 140px;
+}
+
+.header-facebook p {
+	font-weight: lighter;
+	margin:0!important;
+}
+
+.header-facebook img {
+	width: 100px;
+}
+
+.header-facebook img:hover {
+	border-bottom: 1px solid rgb(167,33,38);
+}
+
 .nav-bar-menu {
 	text-align: center;
 	margin-top: 20px;
@@ -137,6 +158,15 @@ footer {
 	font-weight: lighter;
 }
 
+.web-maipo-footer {
+	font-weight: 400;
+	color: rgb(167,33,38);
+}
+
+.web-maipo-footer:hover {
+	color: black;
+}
+
 .web-maipo:hover {
 	color: white;
 }
@@ -153,6 +183,12 @@ footer {
 
 .footer-logo {
 	width: 180px;
+}
+
+@media screen and (min-width:1231px) {
+	.about-text-container {
+		margin-top: 10px;
+	}
 }
 
 .about-text {
