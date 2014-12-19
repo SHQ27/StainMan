@@ -41,7 +41,6 @@
 	</div>
 	<div class='hidden-info actor-info-container' id='lavie-info'> 
 		<h1> Raúl Lavié </h1>
-		<h2> Trayectoria </h2>
 		<p> Nacido en Rosario. Además de ser cantante de tango, y ser uno de los más populares de Argentina, desarrolló paralelamente su carrera como actor, trabajando en los más prestigiosos escenarios del mundo.</p>
 		<p> Actuó en más de 30 obras de teatro;  televisión,  comedias musicales y telenovelas;  cine, (17 largometrajes).  Protagonizó  obras como Hello Dolly y El hombre de la Mancha, en México, Annie, Pippin y Zorba el griego, Víctor Victoria, Gotán, y nuevamente El hombre de la Mancha, en Argentina, ganando por este último  el ACE de Oro al mejor actor.</p>
 		<p>En 1986 se presentó en Broadway como cantante obteniendo cuatro nominaciones para el premio Tony.</p>
@@ -55,7 +54,6 @@
 	</div>
 	<div class='actor-info-container' id='cibrian-info'> 
 		<h1> Pepe Cibrián </h1>
-		<h2> Trayectoria </h2>
 		<p> Nació en La Habana, Cuba, el 13 de mayo de 1948, durante una gira teatral que realizaban sus padres Ana María Campoy y José Cibrián. </p>
 		<p> En 1978, en plena dictadura estrena en el Teatro Embassy una de sus más famosas obras "Aquí no podemos hacerlo", considerada por el crítico del entonces prestigioso diario “La Opinión”, Daniel López, como “el primer gran musical argentino”, que reestrenará con gran éxito en 1987 en el Teatro Municipal Alvear, luego en 1994 nuevamente en el Teatro Cervantes y en 2001 en el Teatro del Globo.</p>
 		<p>En 1989 recibe el premio por segunda vez de la Asociación Argentina de Autores (Argentores) uno de los mayores reconocimientos por su obra "Las Invasiones Inglesas" estrenada en el Teatro Municipal San Martín, siendo premiado como mejor autor de musicales, habiendo recibido el primero en 1981 como mejor autor de comedia por su obra “La Puritana”, y en el 2010, el de “Trayectoria”, también de Argentores, junto a Griselda Gambaro.</p>
