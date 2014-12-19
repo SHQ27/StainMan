@@ -23,7 +23,7 @@
 				</div>
 				<div class='col-lg-1 col-md-1 col-sm-1 col-xs-1'> </div>
 				<div class='col-lg-4 col-md-4 col-sm-4 col-xs-4'>
-					<span class='about-text'>Bienvenido al sitio oficial de El Hombre de la Mancha, Un Musical. Te invitamos al estreno el 7 de Enero en el Teatro Maipo, ubicado en Esmeralda 443. Tel: 5352-8384. Podés adquirir tus entradas en Plateanet o ingresando e www.maipo.com.ar. Consultá la sección de Promociones para obtener descuentos!</span>
+					<span class='about-text'>Bienvenido al sitio oficial de El Hombre de la Mancha, Un Musical. Te invitamos al estreno el 7 de Enero en el Teatro Maipo, ubicado en Esmeralda 443. Tel: 5352-8384. Podés adquirir tus entradas en Plateanet o ingresando e www.maipo.com.ar</span>
 				</div>
 				<div class='col-lg-1 col-md-1 col-sm-1 col-xs-1'></div>
 			</div>

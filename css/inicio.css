@@ -41,6 +41,8 @@
 }
 
 .musical-box-content {
+	font-size: 17px;
+	line-height: 1.5;
 	position: relative;
 	left: 50%;
 	color: white;

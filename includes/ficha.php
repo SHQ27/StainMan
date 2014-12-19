@@ -1,3 +1,5 @@
+<div class="top-black"></div>
+<img src="img/cut-flip.png" class='img-responsive footer-flip ficha-cut-top'>
 <div class="ficha-container">
 	<div class="ficha-inner-container">
 		<div class="ficha-title">
