@@ -16,8 +16,8 @@ var protagonistas = function() {
 	    	$(this).addClass('no-greyscale');
             actorName = event.target.id;
             if ( $('#' + actorName + '-info').is(":hidden") ) {
-                $('.actor-info-container').slideUp('slow');   
-                $('#' + actorName + '-info').slideDown('slow');
+                $('.actor-info-container').fadeOut();   
+                $('#' + actorName + '-info').fadeIn();
             };
     	})
     }
