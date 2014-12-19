@@ -11,13 +11,16 @@ var protagonistas = function() {
     }
 
     this.setGreyscaleBehaviour = function () {
-    	$('.cast-img').click(function() {
+    	$('.cast-img').click(function(event) {
 	    	$('.no-greyscale').removeClass('no-greyscale');
 	    	$(this).addClass('no-greyscale');
+            actorName = event.target.id;
+            if ( $('#' + actorName + '-info').is(":hidden") ) {
+                $('.actor-info-container').slideUp('slow');   
+                $('#' + actorName + '-info').slideDown('slow');
+            };
     	})
     }
 
     this.init();
 }
-
-$(document).ready(function(){ protagonistas() });

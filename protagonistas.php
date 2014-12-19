@@ -44,6 +44,7 @@
 		<!-- FOOTER -->
 
 		<?php include('includes/footer.php') ?>
+		<script type="text/javascript"> protagonistas() </script>
 
 	</div>
 </body>
