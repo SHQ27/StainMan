@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<link rel="stylesheet" type="text/css" href="css/autores.css">
+	<link rel="shortcut icon" href="img/logoSmall.png" />
 
 	<title>EL HOMBRE DE LA MANCHA</title>
 </head>
