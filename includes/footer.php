@@ -20,7 +20,7 @@
 		<div class'col-lg-8 col-md-8 col-sm-8 col-xs-8'>
 			<div class='row'>
 				<div class='col-lg-2 col-md-2 col-sm-2 col-xs-2'>
-					<img src="img/mainlogo.png" class='footer-logo'>
+					<img src="img/mainLogo.png" class='footer-logo'>
 				</div>
 				<div class='col-lg-1 col-md-1 col-sm-1 col-xs-1'> </div>
 				<div class='about-text-container col-lg-4 col-md-4 col-sm-4 col-xs-4'>
@@ -31,7 +31,7 @@
 		</div>
 		<div class'col-lg-2 col-md-2 col-sm-2 col-xs-2'>
 		</div>
-			<img src="img/cut.png" class='img-responsive footer-cut'>
+			<img src="../img/cut.png" class='img-responsive footer-cut'>
 	</div>
 	<div id='rights-reserved' class='row'>
 		<p> © 2014 | Todos los derechos reservados. </p>
