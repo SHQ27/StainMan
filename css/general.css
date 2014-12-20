@@ -52,15 +52,22 @@ ul {
 
 .header-facebook p {
 	font-weight: lighter;
-	margin:0!important;
+	margin:0;
 }
 
-.header-facebook img {
+.logo-facebook {
 	width: 100px;
+	padding-right: 15px;
+	opacity: 0.8;
+}
+
+.logo-twitter {
+	width: 23px;
+	opacity: 0.8;
 }
 
 .header-facebook img:hover {
-	border-bottom: 1px solid rgb(167,33,38);
+	opacity: 1;
 }
 
 .nav-bar-menu {
