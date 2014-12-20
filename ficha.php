@@ -21,11 +21,12 @@
 
 		<div id="header">
 			<div class="top-banner">
-				<img class="header-logo" src="img/mainLogo.png">
 				<div class="header-facebook">
 					<p>Seguinos en</p>
-					<a href="https://www.facebook.com/hombredelamancha2015" target="_blank"><img src="img/logoFacebook.png" alt="facebook"></a>
+					<a href="https://www.facebook.com/hombredelamancha2015" target="_blank"><img class="logo-facebook" src="img/logoFacebook.png" alt="facebook"></a>
+					<a href="https://twitter.com/ElHombre2015" target="_blank"><img class="logo-twitter" src="img/twitter.png" alt="twitter"></a>
 				</div>
+				<img class="header-logo" src="img/mainLogo.png">
 				<img class="img-cut img-responsive" src="img/cut.png">
 			</div>
 		</div>	
