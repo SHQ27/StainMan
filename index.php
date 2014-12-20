@@ -22,6 +22,10 @@
 		<!-- HEADER -->
 		<div id="header">
 			<div class="top-banner">
+				<div class="header-facebook">
+					<p>Una</p>
+					<a href="https://www.facebook.com/hombredelamancha2015" target="_blank"><img src="img/logoFacebook.png" alt="facebook"></a>
+				</div>
 				<img class="header-logo" src="img/mainLogo.png">
 				<div class="header-facebook">
 					<p>Seguinos en</p>
