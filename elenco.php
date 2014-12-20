@@ -13,6 +13,7 @@
 	<title>EL HOMBRE DE LA MANCHA</title>
 </head>
 <body>
+	
 	<div class="top-black"></div>
 	<img src="img/cut-flip.png" class='img-responsive footer-flip footer-flip-top'>
 	<div id='global-container'>
