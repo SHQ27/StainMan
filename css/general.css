@@ -1,4 +1,4 @@
-
+	
 *, body {
 	margin:0;
 	padding: 0;
@@ -24,6 +24,10 @@ ul {
 	list-style: none;
 }
 
+.clear {
+	clear: both;
+}
+
 #header {
 	background: -webkit-linear-gradient(#FDD202,#F8AE1A);
 	background: -moz-linear-gradient(#FDD202,#F8AE1A);
@@ -39,7 +43,7 @@ ul {
 
 .header-logo {
 	padding-top: 30px;
-	width: 300px;
+	width: 900px;
 }
 
 .header-facebook {
@@ -47,8 +51,27 @@ ul {
 	float: right;
 	position: absolute;
 	right: 0;
-	top: 150px;
+	top: 230px;
 }
+
+/*@media screen and (max-width:900px) {
+	.header-logo {
+		width: 700px;
+		-webkit-transition:all 1s ease;
+		-ms-transition:all 1s ease;
+		-moz-transition:all 1s ease;
+		-o-transition:all 1s ease;
+		transition:all 1s ease;
+	}
+	.header-facebook {
+		top: 185px;
+		-webkit-transition:all 1s ease;
+		-ms-transition:all 1s ease;
+		-moz-transition:all 1s ease;
+		-o-transition:all 1s ease;
+		transition:all 1s ease;
+	}
+}*/
 
 .header-facebook p {
 	font-weight: lighter;
@@ -147,6 +170,7 @@ footer {
 .logo-macro {
 	width: 200px;
 	margin-bottom: 50px;
+	margin: 5% 40% 4% 40%;
 }
 
 .direccion-maipo {
@@ -209,7 +233,7 @@ footer {
 	font-weight: lighter;
 	letter-spacing: 1px;
 	color: white;
-	font-size: 12px;
+	font-size: 11px;
 }
 
 .top-black {
@@ -232,6 +256,7 @@ footer {
 	color: white;
 	letter-spacing: 8px;
 	margin: 70px 0px 50px 0px;
+	display: none;
 }
 
 .nav-bar-buy-big {
@@ -254,3 +279,183 @@ footer {
 	text-shadow: 2px 2px 0px black;
 	border: 2px solid white;
 }
+
+					/* NUEVO ELENCO */
+
+
+.elenco1-container {
+	background: linear-gradient(#F8AE1A,#FDD202,#F8AE1A);
+	text-align: center;
+	padding-top: 30px;
+}
+
+.elenco1-elenco {
+	padding-bottom: 10px;
+}
+
+.elenco1-elenco h1, .elenco1-orquesta h1 {
+	color: #a62126;
+	font-size: 50px;
+}
+
+.elenco1-pepe {
+	margin-top: 30px;
+	text-align: center;
+	color: #a62126;
+}
+
+.elenco1-pepe h2, .elenco1-raul h2, .elenco1-cecilia h2 {
+	font-size: 36px;
+	color: #a62126;
+}
+
+.elenco1-pepe h4, .elenco1-raul h4, .elenco1-cecilia h4 {
+	font-weight: lighter;
+	color: #a62126;
+}
+
+.elenco1-raul-cecilia {
+	width: 70%;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+
+.elenco1-raul {
+	float: left;
+}
+
+.elenco1-cecilia {
+	float: right;
+}
+
+.elenco-left {
+	padding-right: 10px;
+	text-align: right;
+	float: left;
+	width: 50%;
+	font-size: 20px;
+	color: #a62126;
+}
+
+.elenco-left ul li {
+	font-weight: lighter;
+	line-height: 30px;
+}
+
+.elenco-right {
+	padding-left: 10px;
+	text-align: left;
+	float: left;
+	width: 50%;
+	font-size: 20px;
+	color: #a62126;
+}
+
+.elenco-right ul li {
+	line-height: 30px;
+}
+
+.elenco1-orquesta {
+	margin-top: 50px;
+}
+
+.director-musical {
+	min-width: 273px;
+	width: 25%;
+	margin: 0 auto;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.director-musical-left, .director-musical-right {
+	float: left;
+}
+
+.director-musical-left {
+	text-align: right;
+}
+
+.director-musical-left h3 {
+	font-weight: lighter;
+	color: #a62126;
+}
+
+.director-musical-right {
+	text-align: left;
+	padding-left: 20px;
+	margin-top: 12px;
+	font-size: 20px;
+	color: #a62126;
+}
+
+.elenco1-cut {
+	margin-top: 10px;
+	position: relative!important;
+	width: 100%;
+}
+
+.elenco1-orquesta {
+	padding-top: 280px;
+}
+
+.siteBy {
+	margin-top: 20px;
+	font-family: 'Old Standard TT', serif;
+	font-style: italic;
+}
+
+.pragaLogo img {
+	width: 150px;
+	padding-bottom: 20px;
+}
+
+
+					/* STAFF */
+
+
+.staff-container {
+	background: linear-gradient(#F8AE1A,#FDD202,#F8AE1A);
+	text-align: center;
+	padding-top: 30px;
+	margin-top: -25px;
+}
+
+.staff-cut {
+	min-width: 1200px;
+	margin-top: -10px;
+}
+
+.staff-title p {
+	color: #a62126;
+	font-size: 50px;
+	margin-top: 20px;
+}
+
+.staff-list-left, .staff-list-right {
+	width: 50%;
+	float: left;
+	padding-top: 20px;
+	line-height: 30px;
+}
+
+.staff-list-left {
+	text-align: right;
+	padding-right: 10px;
+	color: #a62126;
+	font-weight: lighter;
+	font-size: 17px;
+}
+
+.staff-list-right {
+	font-size: 17px;
+	padding-left: 10px;
+	text-align: left;
+	color: #a62126;
+	padding-bottom: 20px;
+}
+
+.staff-list-special {
+	font-size: 20px;
+}
+
+

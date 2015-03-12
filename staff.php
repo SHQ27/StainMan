@@ -11,11 +11,11 @@
 	<link rel="stylesheet" type="text/css" href="css/protagonistas.css">
 	<script src="js/protagonistas.js"></script>
 	
-	<title>EL HOMBRE DE LA MANCHA</title>
+	<title>El Hombre de La Mancha</title>
 </head>
 <body>
 	<div class="top-black"></div>
-	<img src="img/cut-flip.png" class='img-responsive footer-flip footer-flip-top'>
+	<img src="img/cut-flipWeb.png" class='img-responsive footer-flip footer-flip-top'>
 	<div id='global-container'>
 
 		<!-- HEADER -->
@@ -27,8 +27,8 @@
 					<a href="https://www.facebook.com/hombredelamancha2015" target="_blank"><img class="logo-facebook" src="img/logoFacebook.png" alt="facebook"></a>
 					<a href="https://twitter.com/ElHombre2015" target="_blank"><img class="logo-twitter" src="img/twitter.png" alt="twitter"></a>
 				</div>
-				<img class="header-logo" src="img/mainLogo.png">
-				<img class="img-cut img-responsive" src="img/cut.png">
+				<img class="header-logo" src="img/HDLMLogo.png">
+				<img class="img-cut img-responsive" src="img/cutWeb.png">
 			</div>
 		</div>	
 		<div class="nav-bar">
@@ -37,14 +37,14 @@
 				<li><a class="nav-bar-items" href="autores.php">AUTORES</a></li>
 				<li><a class="nav-bar-items" href="elenco.php">ELENCO</a></li>
 				<li><a class="nav-bar-items" href="ficha.php">FICHA TÉCNICA</a></li>
-				<li><a class="nav-bar-items activeLink" href="#!">PROTAGONISTAS</a></li>
+				<li><a class="nav-bar-items activeLink" href="#!">STAFF</a></li>
 				<li class="buy-border"><a class="nav-bar-items nav-bar-buy" target="_blank" href="https://www.plateanet.com/Comprar/el-hombre-de-la-mancha---un-musical">COMPRAR ENTRADAS</a></li>
 			</ul>
 		</div>
 
 		<!-- CONTENT -->
 
-		<?php include('includes/protagonistas.php') ?>
+		<?php include('includes/staff.php') ?>
 
 		<!-- FOOTER -->
 

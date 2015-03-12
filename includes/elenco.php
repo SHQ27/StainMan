@@ -1,5 +1,5 @@
 
-<img src="img/cut-flip.png" class='img-responsive footer-flip elenco-cut-top'>
+<img src="img/cut-flipWeb.png" class='img-responsive footer-flip elenco-cut-top'>
 <div class="elenco-container">
 	<div class="elenco-inner-container">
 		<h1>ELENCO</h1>

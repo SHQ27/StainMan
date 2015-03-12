@@ -139,7 +139,7 @@ body {
 }
 
 .elenco-container {
-	background: url('../img/background.jpg') no-repeat fixed center;
+	background: url('../img/backgroundWeb.jpg') no-repeat fixed center;
 }
 
 
@@ -214,7 +214,7 @@ body {
 .ficha-container {
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background: url('../img/backFicha1.jpg') no-repeat fixed center;
+	background: url('../img/backFicha1Web.jpg') no-repeat fixed center;
 	
 }
 

@@ -1,0 +1,58 @@
+.modal-body {
+  background-color: black;
+}
+
+.modal-body p {
+    color: white;
+    font-size: 14px;
+}
+
+.modal-body img {
+  height: 330px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.modal-body h1 {
+	font-size: 40px;
+	text-align: center;
+	line-height: 1.6;
+	margin-bottom: 30px;
+	background: -webkit-linear-gradient(#FDD202,#F18321);
+	background: -moz-linear-gradient(#FDD202,#F18321);
+	background: -ms-linear-gradient(#FDD202,#F18321);
+	background: -o-linear-gradient(#FDD202,#F18321);
+	background: linear-gradient(#FDD202,#F18321);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	-ms-background-clip: text;
+  	-ms-text-fill-color: transparent;
+  	-moz-background-clip: text;
+  	-moz-text-fill-color: transparent;
+  	-o-background-clip: text;
+  	-o-text-fill-color: transparent;
+  	background-clip: text;
+  	text-fill-color: transparent;
+}
+
+.modal-body h2 {
+  font-size: 30px;
+  text-align: center;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  background: -webkit-linear-gradient(#FDD202,#F18321);
+  background: -moz-linear-gradient(#FDD202,#F18321);
+  background: -ms-linear-gradient(#FDD202,#F18321);
+  background: -o-linear-gradient(#FDD202,#F18321);
+  background: linear-gradient(#FDD202,#F18321);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -ms-background-clip: text;
+    -ms-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -o-background-clip: text;
+    -o-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
