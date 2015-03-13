@@ -30,7 +30,6 @@
 				<li>Gobernador</li>
 				<li>Sacerdote</li>
 				<li>Pedro</li>
-				<li>Capitán</li>
 				<li>Prisionero</li>
 				<li>Prisionero</li>
 			</ul>
@@ -42,9 +41,8 @@
 				<li>Lucas Arbúes</li>
 				<li>Alejandro Poggio</li>
 				<li>Christian Alladio</li>
-				<li>Patricio Witis</li>
+				<li>Martin Selle</li>
 				<li>Bruno Pedicone</li>
-				<li>Martín Selle</li>
 				<li>Ana Victoria de Vincentiis</li>
 				<li>Ivano Nardacchione</li>
 			</ul>

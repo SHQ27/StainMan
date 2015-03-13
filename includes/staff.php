@@ -27,7 +27,6 @@
 			<li>Asesoría Contable</li>
 			<li>Sonido</li>
 			<li>Microfonista</li>
-			<li>Asistencia en Escenario</li>
 			<li class="staff-list-special">Jefe de Escenario</li>
 			<li class="staff-list-special">Coordinación Escenotécnica</li>
 		</ul>		
@@ -54,7 +53,6 @@
 			<li>Matarelli Asoc & Cia.</li>
 			<li>Mahler Ingeniería en Audio</li>
 			<li>Francisco Bilobus</li>
-			<li>Hiram Maldonado</li>
 			<li class="staff-list-special">Marcos Moriconi</li>
 			<li class="staff-list-special">Mina Battista</li>
 		</ul>		
